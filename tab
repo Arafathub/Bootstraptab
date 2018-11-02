@@ -1,0 +1,9 @@
+<a data-toggle="tab" href="tab1"></a>
+
+<div class="tab-content">
+<div id="tab1" class="tab-pane fade active in">
+
+content here..........
+
+</div>
+</div>
