@@ -1,9 +1,10 @@
-<a data-toggle="tab" href="tab1"></a>
+ <a data-toggle="tab" href="tab1"></a>
 
 <div class="tab-content">
-<div id="tab1" class="tab-pane fade active in">
+	<div id="tab1" class="tab-pane fade active in">
 
-content here..........
+     content here..........
+		 in class add only tab1
 
-</div>
+	</div>
 </div>
